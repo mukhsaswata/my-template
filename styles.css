@@ -305,6 +305,17 @@ section a:hover {
 }
 
 /* Teaching */
+.teaching-subsection {
+    font-family: 'Gentium Basic', Georgia, serif;
+    font-size: 20px;
+    color: #1d4a58;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 0;
+}
+
+/* Teaching */
 .course {
     margin-bottom: 25px;
     padding-bottom: 0;
